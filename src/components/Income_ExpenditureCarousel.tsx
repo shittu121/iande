@@ -36,9 +36,9 @@ export function IncomeCarousel() {
           </CarouselItem>
 
 
-          <CarouselItem className="w-full mt-28 flex flex-col items-center !border-none !shadow-none">
+          <CarouselItem className="w-full mt-32 flex flex-col items-center !border-none !shadow-none">
             {/* Card Container with Image & Background */}
-            <div className="relative h-[29rem] px-6 py-2 rounded-2xl w-[80%] mx-auto flex !border-none !shadow-none !outline-none overflow-hidden">
+            <div className="relative h-[26rem] px-6 py-2 rounded-2xl w-[80%] mx-auto flex !border-none !shadow-none !outline-none overflow-hidden">
               {/* Top Background - Main Color */}
               <div className="absolute top-0 left-0 w-full h-1/2 bg-[#D7B6E9]"></div>
           

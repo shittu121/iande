@@ -8,7 +8,7 @@ export default function Home() {
       <div id="page-content">
         <IncomeCarousel />
         <div className="flex">
-        <button className="bg-[#F1CAB3] mx-auto w-[80%] my-8 p-3 rounded-full">
+        <button className="bg-[#F1CAB3] mx-auto w-[80%] my-8 p-3 text-lg rounded-full">
           continue
         </button>
         </div>
